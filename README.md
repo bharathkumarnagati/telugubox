@@ -30,9 +30,9 @@
 <body>
     <h1>✩░▒▓▆▅▃▂▁𝐎𝐍𝐋𝐘 𝐓𝐄𝐋𝐔𝐆𝐔 𝐀𝐍𝐈𝐌𝐄𝐒▁▂▃▅▆▓▒░✩</h1>
     <hr style="border: 2px solid rgb(245, 9, 9);"><hr style="border: 2px solid rgb(253, 4, 4)">
- <a href="https://animesalt.cx/series/jujutsu-kaisen/" ><img src="https://image.tmdb.org/t/p/w342/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg"></br> <button>JUJUTSU KAISEN</button>  </a>
+ <a href="https://animesalt.cx/series/jujutsu-kaisen/" ><img src="https://image.tmdb.org/t/p/w342/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg"> <button>JUJUTSU KAISEN</button>  </a>
  <hr>
-</br></br></br>
+
 <a href="https://animesalt.cx/series/solo-leveling/">
     <img src="https://image.tmdb.org/t/p/w342/rsOApVLbIQEcNkqSlOxNPyg3FyI.jpg"><button>SOLO LEVELING</button>
     </a><hr>
@@ -53,4 +53,4 @@
   
 
 </body>
-</html>
+
