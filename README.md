@@ -34,20 +34,20 @@
  <hr>
 </br></br></br>
 <a href="https://animesalt.cx/series/solo-leveling/">
-    <img src="https://image.tmdb.org/t/p/w342/rsOApVLbIQEcNkqSlOxNPyg3FyI.jpg"></br><button>SOLO LEVELING</button>
+    <img src="https://image.tmdb.org/t/p/w342/rsOApVLbIQEcNkqSlOxNPyg3FyI.jpg"><button>SOLO LEVELING</button>
     </a><hr>
-</br></br></br>
-<a href="https://animesalt.cx/series/kaiju-no-8/"><img src="https://image.tmdb.org/t/p/w500/g4Da5pToG1E0moyaMhP4RewTBCl.jpg"></br><button>KAIJU NO.8</button></a>
-</br></br></br><hr>
-<a href="https://animesalt.cx/series/dan-da-dan/"><img src="https://image.tmdb.org/t/p/w500/6qfZAOEUFIrbUH3JvePclx1nXzz.jpg"></br><button>DAN DA DAN</button></a>
-</br></br></br><hr>
-<a href="https://animesalt.cx/series/one-piece/"><img src="https://image.tmdb.org/t/p/w342/uiIB9ctqZFbfRXXimtpmZb5dusi.jpg"></br><button>ONE PIECE</button></a>
-</br></br></br><hr>
-<a href="https://animesalt.cx/series/death-note/"><img src="https://image.tmdb.org/t/p/w342/tCZFfYTIwrR7n94J6G14Y4hAFU6.jpg"></br><button>DEATH NOTE</button></a>
-</br></br></br><hr>
+
+<a href="https://animesalt.cx/series/kaiju-no-8/"><img src="https://image.tmdb.org/t/p/w500/g4Da5pToG1E0moyaMhP4RewTBCl.jpg"><button>KAIJU NO.8</button></a>
+<hr>
+<a href="https://animesalt.cx/series/dan-da-dan/"><img src="https://image.tmdb.org/t/p/w500/6qfZAOEUFIrbUH3JvePclx1nXzz.jpg"><button>DAN DA DAN</button></a>
+<hr>
+<a href="https://animesalt.cx/series/one-piece/"><img src="https://image.tmdb.org/t/p/w342/uiIB9ctqZFbfRXXimtpmZb5dusi.jpg"><button>ONE PIECE</button></a>
+<hr>
+<a href="https://animesalt.cx/series/death-note/"><img src="https://image.tmdb.org/t/p/w342/tCZFfYTIwrR7n94J6G14Y4hAFU6.jpg"><button>DEATH NOTE</button></a>
+                                                                                                                                                <hr>
 
     <a href="https://animesalt.cx/series/naruto/">
- <img src=" https://image.tmdb.org/t/p/w342/xppeysfvDKVx775MFuH8Z9BlpMk.jpg"></br><button>NARUTO</button>
+ <img src=" https://image.tmdb.org/t/p/w342/xppeysfvDKVx775MFuH8Z9BlpMk.jpg"><button>NARUTO</button>
 
     </a><hr>
   
